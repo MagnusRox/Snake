@@ -1,0 +1,11 @@
+.canvas {
+   background-image:url("ground.png");
+}
+h1 {
+    align-content:normal;
+    font-size:36px;
+    color:blueviolet;
+    right:0px;
+    position:absolute;
+    bottom:0px
+}
